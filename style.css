@@ -17,5 +17,16 @@ body{
 }
 article{
     color: #ebebeb;
-    background-color: #ebebeb;
+    background: #777;
+   
+}
+
+h1,
+p {
+color: #777;
+background: #ebebeb;
+}
+
+#aside,#section{
+    float:left
 }
